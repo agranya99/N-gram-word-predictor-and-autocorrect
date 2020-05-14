@@ -2,6 +2,7 @@
 Word Prediction and Auto-correct using NLP tools (n-gram backoff, viterbi decoding as a spell checker, letter-level backoff prediction) in Java.
 
 @init_class: GUI.java
+
 @authors: Agranya Pratap Singh, Manish Kaswan
 
 The program is run through the GUI.java file with the following flags determining project functioning:
