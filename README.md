@@ -47,7 +47,6 @@ GUI usage:
 
 - Key: Used in the Viterbi Decoding at the letter level in the n-gram model
 
-
 ``` 
 
 ## Bi-gram Predictor
