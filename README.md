@@ -53,7 +53,7 @@ GUI usage:
 
 Class to predict the next word in a given bi-gram sequence. (Tri-gram / Quad-gram and N-gram have a similar implementation)
 
-```
+```java
 //Bigram data from n-gram corpus
 
 private final String FILENAME = "bigram_hashmap.ser";
@@ -107,7 +107,7 @@ return pq;
 
 Used in Viterbi decoding at letter level of n-gram word prediction model. (Tri-gram / N-gram has similar implementation)
 
-```
+```java
 
 public class ViterbiBigramDecoder implements ViterbiDecoder {
 
